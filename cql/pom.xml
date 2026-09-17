@@ -10,7 +10,7 @@
     <description>Translates CCDL queries to CQL</description>
 
     <parent>
-        <groupId>de.medizininformatik-initiative</groupId>
+        <groupId>de.bzkf</groupId>
         <artifactId>cctb</artifactId>
         <version>${revision}</version>
     </parent>

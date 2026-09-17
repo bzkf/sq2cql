@@ -10,7 +10,7 @@
     <description>Command-line utilities for working with CCDL queries</description>
 
     <parent>
-        <groupId>de.medizininformatik-initiative</groupId>
+        <groupId>de.bzkf</groupId>
         <artifactId>cctb</artifactId>
         <version>${revision}</version>
     </parent>
@@ -18,7 +18,7 @@
     <dependencies>
 
         <dependency>
-            <groupId>de.medizininformatik-initiative</groupId>
+            <groupId>de.bzkf</groupId>
             <artifactId>cctb-cql</artifactId>
             <version>${project.version}</version>
         </dependency>

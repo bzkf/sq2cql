@@ -10,7 +10,7 @@
     <description>Server utility to translate CCDL queries</description>
 
     <parent>
-        <groupId>de.medizininformatik-initiative</groupId>
+        <groupId>de.bzkf</groupId>
         <artifactId>cctb</artifactId>
         <version>${revision}</version>
     </parent>
@@ -23,7 +23,7 @@
         </dependency>
 
         <dependency>
-            <groupId>de.medizininformatik-initiative</groupId>
+            <groupId>de.bzkf</groupId>
             <artifactId>cctb-cql</artifactId>
             <version>${project.version}</version>
         </dependency>
