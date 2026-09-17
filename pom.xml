@@ -39,7 +39,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/bzkf/sq2cl</url>
+            <url>https://maven.pkg.github.com/bzkf/sq2cql</url>
         </repository>
         <!--repository>
             <id>test-repo-local</id>
